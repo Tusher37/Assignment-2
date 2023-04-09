@@ -1,0 +1,21 @@
+/* .form-container {
+    background-image: url('./images/gradient-glassmorphism-background_23-2149447861.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+@media screen and (max-width:768px) {
+    .form-container {
+        height: 100%;
+    }
+} */
+.w-full{
+    background-color: burlywood;
+    background-position: center;
+}
+.cont{
+    display: flex;
+
+}
